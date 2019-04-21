@@ -1,2 +1,2 @@
-# python
-python 学习使用
+# python 2019-4-21  
+python 相关经验总结.
